@@ -81,7 +81,7 @@ This implementation lets you limit the total depth of each operation.
 Add this package to your `Package.swift`
 
 ```swift
-.package(url: "https://github.com/d-exclaimation/GraphQLDepthLimit", from: "0.1.0")
+.package(url: "https://github.com/d-exclaimation/graphql-depth-limit", from: "0.1.0")
 ```
 
 It works without any additional libraries outside [GraphQLSwift/GraphQL](https://github.com/GraphQLSwift/GraphQL)
